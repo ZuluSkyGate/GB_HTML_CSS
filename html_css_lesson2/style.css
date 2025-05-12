@@ -1,0 +1,73 @@
+a {
+    text-decoration: none;
+}
+body
+{
+font-family: sans-serif;
+}
+
+
+p {
+    color: red;
+    font-size: 20px;
+    }
+ .link
+         {
+         color: brown;
+         font-size: 25px;
+         line-height: 20px;
+         }
+.maintitle
+         {
+         color: red;
+         font-size: 48px;
+         line-height: 36px;
+         font-weight: bold;
+         }
+.about
+         {
+         color: blue;
+         font-size: 48px;
+         line-height: 36px;
+         font-weight: bold;
+         }
+.text
+    {
+    font-style: normal;
+    font-size: 18px;
+    font-height: 30px;
+    color: grey;
+    font-weight: 300;
+    }
+ .subtitle
+     {
+    font-style: normal;
+    font-size: 48px;
+    font-height: 30px;
+    color: grey;
+    font-weight: 300;
+    }
+ .pic
+     {
+     border-radius: 10px 20px 30px 40px;
+     width: 250px;
+
+     }
+
+ .input
+     {
+     border-radius: 10px;
+     height:  30px;
+     width:  400px;
+     border: 2px solid grey;
+     font-size: 14px;
+     outline: none;
+     }
+ .btn
+     {
+     padding: 15px 25px
+     border-radius: 5px;
+     border: 2px solid grey;
+     font-size: 14px;
+     outline: none;
+     }
